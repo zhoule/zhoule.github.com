@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XPLUSZ | BLOG</title>
+    <description></description>
+    <link>http://www.xplusz.com/</link>
+    <atom:link href="http://www.xplusz.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 13 Oct 2014 15:31:52 +0800</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2014 15:31:52 +0800</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>X Plus Z Blog Online</title>
+        <description></description>
+        <pubDate>Mon, 13 Oct 2014 00:00:00 +0800</pubDate>
+        <link>http://www.xplusz.com/2014/10/13/x-plus-z-blog-online.html</link>
+        <guid isPermaLink="true">http://www.xplusz.com/2014/10/13/x-plus-z-blog-online.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
