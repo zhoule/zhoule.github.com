@@ -188,7 +188,7 @@ body {
   position: relative;
   overflow: hidden;
   background-color: #000;
-  margin-top: 50px; }
+  margin-top: 88px; }
   .teaserimage .teaserimage-image {
     background-size: cover;
     background-position: center;
@@ -237,7 +237,7 @@ body {
             height: 41px; }
 
 .blog-topbar {
-  height: 50px;
+  height: 88px;
   position: fixed;
   top: 0;
   left: 0;
@@ -246,7 +246,7 @@ body {
   opacity: 0.8;
   width: 100%;
   text-align: right;
-  line-height: 50px;
+  line-height: 88px;
   border-bottom: 1px solid #C4C4C4; }
   .blog-topbar .link-border {
     display: inline-block;
@@ -258,7 +258,7 @@ body {
     margin-right: 15px;
     padding: 0px 10px;
     font-weight: bold;
-    height: 46px;
+    height: 84px;
     cursor: pointer;
     color: #D5D5D5;
     text-decoration: none;
