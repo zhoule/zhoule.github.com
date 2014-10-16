@@ -64,7 +64,7 @@ template {
  */
 
 html {
-    font-family: sans-serif; /* 1 */
+    font-family: 'Gotham-Book'; /* 1 */
     -ms-text-size-adjust: 100%; /* 2 */
     -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -172,7 +172,7 @@ code,
 kbd,
 pre,
 samp {
-    font-family: monospace, serif;
+    font-family: 'Gotham-Book';
     font-size: 1em;
 }
 

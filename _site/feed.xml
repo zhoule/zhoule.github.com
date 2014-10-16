@@ -5,14 +5,145 @@
     <description></description>
     <link>http://www.xplusz.com/</link>
     <atom:link href="http://www.xplusz.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Oct 2014 19:47:46 +0800</pubDate>
-    <lastBuildDate>Wed, 15 Oct 2014 19:47:46 +0800</lastBuildDate>
+    <pubDate>Thu, 16 Oct 2014 01:55:32 -0700</pubDate>
+    <lastBuildDate>Thu, 16 Oct 2014 01:55:32 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>X Plus Z Blog Online</title>
-        <description></description>
-        <pubDate>Mon, 13 Oct 2014 00:00:00 +0800</pubDate>
+        <description>&lt;h3&gt;X Plus Z 分享（第一期）&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;引用经典&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas.--George Bernard Shaw
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;英国大文豪萧伯纳说：“你我是朋友，各拿一个苹果来交换，交换后仍然是各有一个苹果；倘若你有一种思想，我也有一种思想，把各自思想相互交流，那么每个人就有两种思想了”。&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;Front-end&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;博客分享：酷壳 -shared by Albert
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://coolshell.cn/&quot;&gt;http://coolshell.cn/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;博客分享：关于Github -shared by Albert
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://markdotto.com/&quot;&gt;http://markdotto.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;博客分享：让我们再聊聊浏览器资源加载优化 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://www.infoq.com/cn/articles/browser-resource-loading-optimization#anch111303&lt;/li&gt;
+&lt;li&gt;博客分享：CSS的魔力 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://adamschwartz.co/magic-of-css/&lt;/li&gt;
+&lt;li&gt;网站分享：创建、测试和维护一个大型JavaScript代码库并不容易，尤其很难找到一个有关于如何去做这些事的强大资源。这里集合了一系列有关上述话题的最好的文章，视频以及展示。 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://superherojs.com/&lt;/li&gt;
+&lt;li&gt;TDD在Angular中的实现 - Shared by Jack&lt;/li&gt;
+&lt;li&gt;http://quickleft.com/blog/angularjs-unit-testing-for-real-though&lt;/li&gt;
+&lt;li&gt;三个你可能感兴趣的Javascript API - shared by Jack&lt;/li&gt;
+&lt;li&gt;http://www.sitepoint.com/3-new-javascript-apis-may-want-follow/&lt;/li&gt;
+&lt;li&gt;网站分享：iOS 通知中心扩展制作入门 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://onevcat.com/2014/08/notification-today-widget/&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h4&gt;Back-end&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;博客分享：专注于软件开发和交付的全球性软件网站 -shared by Angelo&lt;/li&gt;
+&lt;li&gt;http://www.thoughtworks.com/blogs&lt;/li&gt;
+&lt;li&gt;博客分享：关于Grails, Groovy和Java的博客 -shared by Angelo&lt;/li&gt;
+&lt;li&gt;http://burtbeckwith.com/blog/&lt;/li&gt;
+&lt;li&gt;博客分享：&lt;/li&gt;
+&lt;li&gt;http://martinfowler.com/  -shared by Angelo&lt;/li&gt;
+&lt;li&gt;博客分享：如何制作好的软件  -shared by Angelo&lt;/li&gt;
+&lt;li&gt;http://www.makinggoodsoftware.com/&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h4&gt;Test&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;博客分享：经营成功的测试职业生涯  -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://blog.jobbole.com/74611/&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Selenium2 WebDriver 入门指南 -shared by Carol&lt;/li&gt;
+&lt;li&gt;Word版下载&lt;/li&gt;
+&lt;li&gt;关于测试人员的职业发展 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://www.cnblogs.com/skytraveler/p/3876707.html&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h4&gt;HR&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;博客分享：4个步骤教你如何省时省钱招聘程序员 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://www.donnfelker.com/how-to-hire-programmers/&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;论坛分享：三茅人力资源网 -shared by Summer&lt;/li&gt;
+&lt;li&gt;http://www.hrloo.com/&lt;/li&gt;
+&lt;li&gt;论坛分享：中国人力资源论坛 -shared by Summer&lt;/li&gt;
+&lt;li&gt;http://www.chinahrbbs.cn/default.php&lt;/li&gt;
+&lt;li&gt;论坛分享：HR369人力资源论坛  -shared by Summer&lt;/li&gt;
+&lt;li&gt;http://bbs.hr369.com/forum.php&lt;/li&gt;
+&lt;li&gt;网站分享：职场那些事 -shared by Summer&lt;/li&gt;
+&lt;li&gt;http://www.d1money.com/stock/childrenGroup?groupId=2755&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;管理&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;博客分享：Kim Scott的管理学：源自她在Google、苹果、Dropbox、Twitter和Square等公司的工作经验 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://firstround.com/article/My-Management-Lessons-from-Three-Failed-Startups-Google-Apple-Dropbox-Twitter-and-Square&lt;/li&gt;
+&lt;li&gt;什么时候从Scrum转成Kanban -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://java.dzone.com/articles/when-dump-scrum-kanban&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h4&gt;工具&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;网站分享：深入浅出Docker（一）：Docker核心技术预览 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://www.infoq.com/cn/articles/docker-core-technology-preview&lt;/li&gt;
+&lt;li&gt;你的Terminal从来没有如此爽过 - recommended by Jack&lt;/li&gt;
+&lt;li&gt;http://ohmyz.sh/&lt;/li&gt;
+&lt;li&gt;让你感受在Terminal中使用狙击枪的感脚 -recommended by Jack&lt;/li&gt;
+&lt;li&gt;https://github.com/rupa/z/&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;To be professional&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;一起来膜拜一下大神：全球最杰出的14位程序员 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://codecloud.net/top14-programmer-1933.html&lt;/li&gt;
+&lt;li&gt;程序员，请优先提高代码的可读性 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://va.lent.in/optimize-for-readability-first/&lt;/li&gt;
+&lt;li&gt;维护编程的高贵艺术 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://blog.codinghorror.com/the-noble-art-of-maintenance-programming/&lt;/li&gt;
+&lt;li&gt;如何成为一个卓越的程序员 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer&lt;/li&gt;
+&lt;li&gt;优秀程序员的十个特质 -shared by Jack&lt;/li&gt;
+&lt;li&gt;http://readwrite.com/2008/04/07/top&lt;em&gt;10&lt;/em&gt;software&lt;em&gt;engineer&lt;/em&gt;traits&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;闲谈&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;如何做一个合格的程序猿媳妇 - shared by Jack&lt;/li&gt;
+&lt;li&gt;http://jianshu.io/p/492903fb7005&lt;/li&gt;
+&lt;li&gt;谈谈自己造轮子&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;http://blog.csdn.net/siddontang/article/details/24765201&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;特别感谢支持X+Z分享并做出贡献的人，&amp;quot;三克油给你妈吃&amp;quot;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;特别提醒: X+Z分享每逢双周的周五推出.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;第一时间得获知分享，请关注公司微信公众账号.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Oct 2014 00:00:00 -0700</pubDate>
         <link>http://www.xplusz.com/2014/10/13/x-plus-z-blog-online.html</link>
         <guid isPermaLink="true">http://www.xplusz.com/2014/10/13/x-plus-z-blog-online.html</guid>
         
