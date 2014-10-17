@@ -6,8 +6,6 @@ category:
 tags: []
 ---
 
-#
-
 `引用经典`
 
 `Your job as a developer isn't to just develop, but to continually to learn how to develop better.`
@@ -140,3 +138,4 @@ tags: []
 * 特别提醒: X+Z分享每三周的周五推出.
 
 * 第一时间得获知分享，请关注公司微信公众账号.
+* ![X PLUS Z WEICHAT](https://s3-us-west-1.amazonaws.com/xplusz.com/x%2Bz_weichat.png)
