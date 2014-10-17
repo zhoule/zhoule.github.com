@@ -150,4 +150,4 @@ tags: []
 * 特别提醒: X+Z分享每隔三周的周五推出.
 
 * 第一时间得获知分享，请关注公司微信公众账号.
-* ![X PLUS Z WEICHAT](https://s3-us-west-1.amazonaws.com/xplusz.com/x%2Bz_weichat.png)
+![X PLUS Z WEICHAT](https://s3-us-west-1.amazonaws.com/xplusz.com/x%2Bz_weichat.png)
