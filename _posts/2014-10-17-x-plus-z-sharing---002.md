@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "X Plus Z Sharing   002"
+title: "X Plus Z 分享（第二期）"
 description: ""
 category:
 tags: []
 ---
 
-# X Plus Z 分享（第二期）
 
 `引用经典`
 
