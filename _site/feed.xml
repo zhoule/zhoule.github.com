@@ -5,13 +5,993 @@
     <description></description>
     <link>http://www.xplusz.com/</link>
     <atom:link href="http://www.xplusz.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 16 Oct 2014 02:05:26 -0700</pubDate>
-    <lastBuildDate>Thu, 16 Oct 2014 02:05:26 -0700</lastBuildDate>
+    <pubDate>Fri, 17 Oct 2014 14:25:00 +0800</pubDate>
+    <lastBuildDate>Fri, 17 Oct 2014 14:25:00 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>X Plus Z Blog Online</title>
-        <description>&lt;h3&gt;X Plus Z 分享（第一期）&lt;/h3&gt;
+        <title>X Plus Z Sharing   005</title>
+        <description></description>
+        <pubDate>Fri, 17 Oct 2014 00:00:00 +0800</pubDate>
+        <link>http://www.xplusz.com/2014/10/17/x-plus-z-sharing---005.html</link>
+        <guid isPermaLink="true">http://www.xplusz.com/2014/10/17/x-plus-z-sharing---005.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>X Plus Z Sharing   004</title>
+        <description>&lt;h1&gt;X Plus Z 分享（第四期）&lt;/h1&gt;
+
+&lt;p&gt;&lt;code&gt;引用经典&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;When something goes wrong, it&amp;#39;s more important to decide who&amp;#39;s going to fix it than who&amp;#39;s going to blame.&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;当出现问题的时候，重要的是找人解决问题，而不是相互推委.&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;本期Lunch Learning&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;TED分享 - 令人惊讶的动机科学 - Recommended by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ted.com/talks/dan_pink_on_motivation&quot;&gt;http://www.ted.com/talks/dan_pink_on_motivation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6&gt;下期Lunch Learning&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;TED分享 - Does money make you mean? - Recommended by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ted.com/talks/paul_piff_does_money_make_you_mean&quot;&gt;http://www.ted.com/talks/paul_piff_does_money_make_you_mean&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;Front-end&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web 研发模式演变 - Shared by Albert
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/lifesinger/lifesinger.github.com/issues/184&quot;&gt;https://github.com/lifesinger/lifesinger.github.com/issues/184&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;很好的HTML Parser - Shared by William Liu
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://jsoup.org/&quot;&gt;http://jsoup.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;深入理解JavaScript系列（5）：强大的原型和原型链 - Shared by Angela
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cnblogs.com/TomXu/archive/2012/01/05/2305453.html&quot;&gt;http://www.cnblogs.com/TomXu/archive/2012/01/05/2305453.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Yammer清理前端代码的经验 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/@yammereng/moving-code-forward-de7d7852a58f&quot;&gt;https://medium.com/@yammereng/moving-code-forward-de7d7852a58f&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yammer是一家非常不错的公司，他们的infrastructure做得不错, 据说一个2009年本科毕业，能力非常强的Yammer去到google，并且google给他的title是senior staff engineer在google这个title可不是一般人能达到的，再重复一遍，这是一个2009年本科毕业的。&lt;/li&gt;
+&lt;li&gt;不喜欢看英文介绍来个百度百科对Yammer的介绍 &lt;a href=&quot;http://baike.baidu.com/view/4851973.htm&quot;&gt;http://baike.baidu.com/view/4851973.htm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;Back-end&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;数据库索引常用算法 - Shared by William Liu
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/v_july_v/article/details/6530142#comments&quot;&gt;http://blog.csdn.net/v_july_v/article/details/6530142#comments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;一个很好的java公用处理包 - Shared by William Liu
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://code.google.com/p/trinea-java-common/&quot;&gt;https://code.google.com/p/trinea-java-common/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;如何使用Express 4 build restful api - Shared by Wade
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4&quot;&gt;http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Nodejs学习路线图 - Shared by Wade
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.fens.me/nodejs-roadmap/&quot;&gt;http://blog.fens.me/nodejs-roadmap/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Android实现推送方式解决方案 - Shared by Wade
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cnblogs.com/hanyonglu/archive/2012/03/04/2378971.html&quot;&gt;http://www.cnblogs.com/hanyonglu/archive/2012/03/04/2378971.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;Test&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;关于测试人员的职业发展 - Shared by Carol
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.jobbole.com/74628/&quot;&gt;http://blog.jobbole.com/74628/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Building a Quality Quality Assurance Team - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/@yammereng/the-road-to-a-quality-quality-assurance-team-4f61ad47b40d&quot;&gt;https://medium.com/@yammereng/the-road-to-a-quality-quality-assurance-team-4f61ad47b40d&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;iOS&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iOS入门，学习Objective-C还是Swift? - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.zhihu.com/question/24123236&quot;&gt;http://www.zhihu.com/question/24123236&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Arduino Tutorial: Integrating Bluetooth LE and iOS - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.raywenderlich.com/73306/arduino-tutorial-integrating-bluetooth-le-and-ios&quot;&gt;http://www.raywenderlich.com/73306/arduino-tutorial-integrating-bluetooth-le-and-ios&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Architecting iOS Apps with VIPER - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.objc.io/issue-13/viper.html&quot;&gt;http://www.objc.io/issue-13/viper.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;HTTP networking library written in Swift - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://nshipster.com/alamofire/&quot;&gt;http://nshipster.com/alamofire/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;HR&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;优秀团队领导的3点建议 - Shared by Scandy
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hr.com.cn/p/32098.html&quot;&gt;http://www.hr.com.cn/p/32098.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;论 企业文化中的感恩文化 - Shared by Summer
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.hr369.com/?310/viewspace-92223.html&quot;&gt;http://blog.hr369.com/?310/viewspace-92223.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;员工如何进行优秀的自我管理 - Shared by Summer
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.hr369.com/?419/viewspace-93599.html&quot;&gt;http://blog.hr369.com/?419/viewspace-93599.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;企业文化——表扬比发钱更有效 - Shared by Summer
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.hr369.com/?1985/viewspace-93936.html&quot;&gt;http://blog.hr369.com/?1985/viewspace-93936.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;HR如何快速成长 - Shared by Summer
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.hr369.com/?2749/viewspace-93101.html&quot;&gt;http://blog.hr369.com/?2749/viewspace-93101.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;工具&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;一图在手，天下我有，当你的git搞的一团糟时，看看它 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://justinhileman.info/article/git-pretty/&quot;&gt;http://justinhileman.info/article/git-pretty/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Yeoman自动构建js项目 - Shared by Wade
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.fens.me/nodejs-yeoman-intro/&quot;&gt;http://blog.fens.me/nodejs-yeoman-intro/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;如何配置多个github账号在一台电脑上 - Shared by Wade
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574&quot;&gt;http://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;CNPM搭建私有的NPM服务 - Shared by Wade
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.fens.me/nodejs-cnpm-npm/&quot;&gt;http://blog.fens.me/nodejs-cnpm-npm/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;To be professional&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;好的工程师文化是怎样的？ - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.theeffectiveengineer.com/blog/what-makes-a-good-engineering-culture&quot;&gt;http://www.theeffectiveengineer.com/blog/what-makes-a-good-engineering-culture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;“大公司有大公司的好，小公司也有小公司的好，比如你可以参与到定义公司工程师文化的过程中。比如你刚进去的时候，公司还没有把测试自动化，你就可以自己搭起来，变成这方面的专家；或者你刚进去的时候发现code base里有很多重复的代码，你就可以把那部分代码抽象出来，变成一个library。好的工程师文化中，公司里的每个人都会有很强的ownership，看到什么不完善的，都会主动花时间（晚上、周末、假日）去改善；当大部分人都这么有责任感了，新进来也会受到感染。“ &lt;strong&gt;&lt;em&gt;我想说这就是我们现在想要的.&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;教别人编程以提高自己的编程水平 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://venturebeat.com/2014/09/14/how-teaching-can-make-you-a-better-programmer/&quot;&gt;http://venturebeat.com/2014/09/14/how-teaching-can-make-you-a-better-programmer/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;常常自认为自己懂得很多技术，你能不能很好的给别人解释清楚，工作中，多帮助别人，多带新人，自己的技术也会提高不少。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;闲谈&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;多亏 Sketch，我这个小码农可以自己设计 app 了 - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jianshu.com/p/c2946a9869ed&quot;&gt;http://www.jianshu.com/p/c2946a9869ed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;制作一款App需要的成本 - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jianshu.com/p/cb4a87ad3046&quot;&gt;http://www.jianshu.com/p/cb4a87ad3046&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Ingress中的几何：从多重控制场说开来去 - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://zhuanlan.zhihu.com/ingress/19579305&quot;&gt;http://zhuanlan.zhihu.com/ingress/19579305&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;从无秘和知乎 看中国式社交产品的救赎 - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://content.businessvalue.com.cn/post/31030.html?s=newsletter&quot;&gt;http://content.businessvalue.com.cn/post/31030.html?s=newsletter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;如果嫌工资少，就看看高薪资的标准你符合几条？ - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5NjIxMzc4MA==&amp;amp;mid=201117870&amp;amp;idx=7&amp;amp;sn=51bcd689b9f703bf11df47d77bc72672&amp;amp;scene=1&amp;amp;from=singlemessage&amp;amp;isappinstalled=0#rd&quot;&gt;http://mp.weixin.qq.com/s?__biz=MjM5NjIxMzc4MA==&amp;amp;mid=201117870&amp;amp;idx=7&amp;amp;sn=51bcd689b9f703bf11df47d77bc72672&amp;amp;scene=1&amp;amp;from=singlemessage&amp;amp;isappinstalled=0#rd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;十万个为什么&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Android 的屏幕滚动操作不如 iPhone 流畅顺滑，是什么原因导致的？ - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.zhihu.com/question/24541467&quot;&gt;http://www.zhihu.com/question/24541467&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Google 的虚拟现实化游戏 Ingress 是什么制作水平 ？体验如何？ - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.zhihu.com/question/20600764&quot;&gt;http://www.zhihu.com/question/20600764&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;iWatch 会不会摧毁瑞士钟表业？ - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.zhihu.com/question/25117231&quot;&gt;http://www.zhihu.com/question/25117231&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;什么导致了三星电子在 2014 年前后的盛世危机？ - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.zhihu.com/question/24807595*&quot;&gt;http://www.zhihu.com/question/24807595*&lt;/a&gt;&lt;br&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;特别感谢支持X+Z分享并做出贡献的人，&amp;quot;三克油给你妈吃&amp;quot;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;特别提醒: X+Z分享每隔三周的周五推出.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;第一时间得获知分享，请关注公司微信公众账号.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 17 Oct 2014 00:00:00 +0800</pubDate>
+        <link>http://www.xplusz.com/2014/10/17/x-plus-z-sharing---004.html</link>
+        <guid isPermaLink="true">http://www.xplusz.com/2014/10/17/x-plus-z-sharing---004.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>X Plus Z Sharing   003</title>
+        <description>&lt;h1&gt;X Plus Z 分享（第三期）&lt;/h1&gt;
+
+&lt;p&gt;&lt;code&gt;引用经典&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Start out by making 100 users really happy, rather than a lot more users only a little happy.  - Paul Buchheit&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;与其使一群人只感受到一点点快乐，还不如让100人感到真正的幸福来的实在. （翻译的不好请见谅 - Jack）&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;本期Lunch Learning&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;新人入职的一些搞笑事件以及办公室同事间的沟通技巧 - Jessie&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6&gt;下期Lunch Learning&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;TED分享 - 令人惊讶的动机科学 - Recommended by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ted.com/talks/dan_pink_on_motivation&quot;&gt;http://www.ted.com/talks/dan_pink_on_motivation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;Front-end&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;在企业内部分发 iOS 应用程序 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://beyondvincent.com/blog/2014/07/30/provision-ios-ipa-app-for-in-house-enterprise-distribution/&quot;&gt;http://beyondvincent.com/blog/2014/07/30/provision-ios-ipa-app-for-in-house-enterprise-distribution/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Angular.js 学习笔记 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://fann.im/blog/2013/11/20/angularjs-notes/&quot;&gt;http://fann.im/blog/2013/11/20/angularjs-notes/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;AngularJS vs. Backbone.js vs. Ember.js - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.airpair.com/js/javascript-framework-comparison&quot;&gt;http://www.airpair.com/js/javascript-framework-comparison&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;用CasperJS测试JS代码 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://fourword.fourkitchens.com/article/testing-js-code-casperjs&quot;&gt;http://fourword.fourkitchens.com/article/testing-js-code-casperjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;AngularJS入门指南 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://antjanus.com/blog/web-development-tutorials/front-end-development/comprehensive-beginner-guide-angularjs/&quot;&gt;http://antjanus.com/blog/web-development-tutorials/front-end-development/comprehensive-beginner-guide-angularjs/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;基于token认证的AngularJS module - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://satellizer.herokuapp.com&quot;&gt;https://satellizer.herokuapp.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;AngularJS S3上传 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cheynewallace.com/uploading-to-s3-with-angularjs/&quot;&gt;http://www.cheynewallace.com/uploading-to-s3-with-angularjs/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;关于Javascript正责表达式中你应该知道的方面 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://bjorn.tipling.com/state-and-regular-expressions-in-javascript&quot;&gt;http://bjorn.tipling.com/state-and-regular-expressions-in-javascript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;在浏览器控制台中调试AngularJS应该的5个小技巧 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://modernweb.com/2014/08/21/debugging-angularjs-apps-console/&quot;&gt;http://modernweb.com/2014/08/21/debugging-angularjs-apps-console/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;教你如何编写合理、易维护、可扩展的 CSS 代码 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://cssguidelin.es/&quot;&gt;http://cssguidelin.es/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;写的很好，公司谁能出一个BE的?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;Back-end&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;深入学习微框架：Spring Boot - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.infoq.com/cn/articles/microframeworks1-spring-boot&quot;&gt;http://www.infoq.com/cn/articles/microframeworks1-spring-boot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Spring Boot从目前趋势来看已经是Spring的顶级项目，是一个很不错的框架，对公司以后的项目也许会是一个很不错的选择。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Best Practices for Designing a Pragmatic RESTful API - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api&quot;&gt;http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Java 9 features announced! - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://jaxenter.com/java-9-features-50896.html&quot;&gt;http://jaxenter.com/java-9-features-50896.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Microservices for the Grumpy Neckbeard - Shared by Shawn
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.chrisstucchio.com/blog/2014/microservices_for_the_grumpy_neckbeard.html&quot;&gt;http://www.chrisstucchio.com/blog/2014/microservices_for_the_grumpy_neckbeard.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Java 8新特性之终级指南 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.importnew.com/11908.html&quot;&gt;http://www.importnew.com/11908.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;什么是静态(static)?什么是静态方法，静态变量，静态块和静态类？- Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.importnew.com/7208.html&quot;&gt;http://www.importnew.com/7208.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Swagger Is Great, But... - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://java.dzone.com/articles/swagger-great&quot;&gt;http://java.dzone.com/articles/swagger-great&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;一个程序员对Swagger的吐槽，Swagger的开发者在评论给予一个正面回应，有兴趣可以看看，同时研究一下Swagger (smile)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Grails最佳实践 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://groovy.dzone.com/articles/grails-best-practices&quot;&gt;http://groovy.dzone.com/articles/grails-best-practices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Tutorial – REST API design and implementation in Java with Jersey and Spring - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.javacodegeeks.com/2014/08/tutorial-rest-api-design-and-implementation-in-java-with-jersey-and-spring.html&quot;&gt;http://www.javacodegeeks.com/2014/08/tutorial-rest-api-design-and-implementation-in-java-with-jersey-and-spring.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;写的很不错的一个tutorial，有喜欢的可以参考来练练手&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;Test&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Google是如何做测试的？
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.jobbole.com/15277/&quot;&gt;http://blog.jobbole.com/15277/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;JIRA的列表并不是Scrum的Product Backlog - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.infoq.com/cn/articles/jira-list-not-backlog&quot;&gt;http://www.infoq.com/cn/articles/jira-list-not-backlog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;一个好的测试人员的特征和技能 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.helpmeusetech.com/?p=1312&quot;&gt;http://www.helpmeusetech.com/?p=1312&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;看了这10点你会觉得测试是多么COOL的一个职业 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.logigear.vn/en/careers/top-10-reasons.html&quot;&gt;http://www.logigear.vn/en/careers/top-10-reasons.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;HR&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;为什么这么难找到优秀的Java开发人员？- Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://jaxenter.com/why-is-it-so-hard-to-find-good-java-developers-50787.html&quot;&gt;http://jaxenter.com/why-is-it-so-hard-to-find-good-java-developers-50787.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Github是怎么招人的 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/blog/1269-the-github-hiring-experience&quot;&gt;https://github.com/blog/1269-the-github-hiring-experience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github跟Stackoverflow已经是码农界不可或缺的平台了。要是Github和Stackoverflow同时挂了，很多人恐怕都写不了代码了，来看看他们是怎么招人的.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;How to get a Job at Google - Shared by Winston
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html?_r=2&amp;amp;referrer=&quot;&gt;http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html?_r=2&amp;amp;referrer=&lt;/a&gt; (请用VPN打开或者连到006，想方便就点这&lt;a href=&quot;https://xplusz.atlassian.net/wiki/download/attachments/34996234/how%20to%20get%20a%20Job%20at%20Google.pdf?version=1&amp;amp;modificationDate=1409411893646&amp;amp;api=v2&quot;&gt;https://xplusz.atlassian.net/wiki/download/attachments/34996234/how%20to%20get%20a%20Job%20at%20Google.pdf?version=1&amp;amp;modificationDate=1409411893646&amp;amp;api=v2&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;你真的会做技术面试吗？来看看这个先 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews&quot;&gt;http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;有点长，但里面说的到一些点和技巧真的很受用，值得一看&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;打网球、划船、捕鱼与绩效管理 - Shared by Scandy
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hr.com.cn/p/32013.html&quot;&gt;http://www.hr.com.cn/p/32013.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;史上最接地气的《高效选人用人的面试与甄选技巧大全》 - Shared by Summer
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://zl.hrloo.com/file/385372&quot;&gt;http://zl.hrloo.com/file/385372&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;HR通才与专才，谁更容易做到总监？ - Shared by Summer
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hrloo.com/rz/13261138.html&quot;&gt;http://www.hrloo.com/rz/13261138.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;工具&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mac上的神兵利器——Alfred 2 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.alfredapp.com/&quot;&gt;http://www.alfredapp.com/&lt;/a&gt; (我相信你会找到和谐版)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;集成Workflow后的Alfred犹如如虎添翼 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.readern.com/alfred-2-workflows.html&quot;&gt;http://www.readern.com/alfred-2-workflows.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.alfredworkflow.com/&quot;&gt;http://www.alfredworkflow.com/&lt;/a&gt; (这个更全面)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;来看看每个folder到底占多少空间(Mac) - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://daisydiskapp.com/&quot;&gt;http://daisydiskapp.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;pre-commit by Yelp - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://pre-commit.com/&quot;&gt;http://pre-commit.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;如果你对google情有独钟，duckduckgo.com你又觉得一般般，但又不想花钱买个VPN，那么请收藏好这个网址 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/greatfire/wiki&quot;&gt;https://github.com/greatfire/wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Bettertouchtool把Magic Mouse和 Magic Trackpad功能发到极致的工具 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.boastr.net/downloads-secondbar-bettertouchtool-2/&quot;&gt;http://blog.boastr.net/downloads-secondbar-bettertouchtool-2/&lt;/a&gt; (它更新很及时，Yosemite出来后马上发布Beta版，相差就一两天吧)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://bbs.feng.com/read-htm-tid-7103936.html&quot;&gt;http://bbs.feng.com/read-htm-tid-7103936.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;磨刀不误砍柴功，20个IntelliJ IDEA代码自动补全功能 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://jetbrains.dzone.com/articles/top-20-code-completions-in-intellij-idea&quot;&gt;http://jetbrains.dzone.com/articles/top-20-code-completions-in-intellij-idea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;谁来做个IEDA详细版的Sharing session，要不要来个X+Z版的&amp;quot;冰桶挑战&amp;quot;, William Liu, Allen Li, Ward Miao?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;How do I run IDEA IntelliJ on Mac OS X with JDK 7? - Shared by Angelo
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/13019199/how-do-i-run-idea-intellij-on-mac-os-x-with-jdk-7&quot;&gt;http://stackoverflow.com/questions/13019199/how-do-i-run-idea-intellij-on-mac-os-x-with-jdk-7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;To be professional&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;打造程序员自己的品牌，你的品牌是什么？&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Never use hard tabs - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://opensourcehacker.com/2012/05/13/never-use-hard-tabs/&quot;&gt;http://opensourcehacker.com/2012/05/13/never-use-hard-tabs/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;编写高质量代码：改善java程序的151个建议 ＋ 编写高质量代码:改善javascript程序的188个建议 - Shared by Sky
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/mn/detailApp?asin=B00MN74XLU&amp;amp;tag=sinappelcom-23&amp;amp;camp=404&amp;amp;creative=2024&amp;amp;linkCode=as4&amp;amp;creativeASIN=B00MN74XLU&amp;amp;adid=16XSG84GPKR8EEFRG6DV&amp;amp;&quot;&gt;https://www.amazon.cn/mn/detailApp?asin=B00MN74XLU&amp;amp;tag=sinappelcom-23&amp;amp;camp=404&amp;amp;creative=2024&amp;amp;linkCode=as4&amp;amp;creativeASIN=B00MN74XLU&amp;amp;adid=16XSG84GPKR8EEFRG6DV&amp;amp;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;自我决定论学习资源 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://swordi.com/2014/07/10/sdt/&quot;&gt;http://swordi.com/2014/07/10/sdt/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;程序员常去的14个顶级开发社区 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cocoachina.com/programmer/20140825/9445.html&quot;&gt;http://www.cocoachina.com/programmer/20140825/9445.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;一个合格的程序员应该读过哪些书 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html&quot;&gt;http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;让重视细节变成一种习惯 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://spiekermann.com/en/being-obsessive-about-detail-is-being-normal/&quot;&gt;http://spiekermann.com/en/being-obsessive-about-detail-is-being-normal/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;读书&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;quot;How Google Works&amp;quot;  - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;谷歌执行董事长和前首席执行官埃里克·施密特和前高级副总裁兼产品经理乔纳森·罗森伯格出品，要不要预定一本?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.howgoogleworks.net/&quot;&gt;http://www.howgoogleworks.net/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;《Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal》- Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;讲Twitter如何诞生，如何一步一步变成互联网巨头之一的古树&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.cn/Hatching-Twitter-A-True-Story-of-Money-Power-Friendship-and-Betrayal-Bilton-Nick/dp/1591847087/?_encoding=UTF8&amp;amp;camp=536&amp;amp;creative=3200&amp;amp;keywords=hatching%20twitter%20a%20true%20story%20of%20money%20power%20friendship%20and%20betrayal&amp;amp;linkCode=ur2&amp;amp;qid=1409197580&amp;amp;sr=8-1&amp;amp;tag=wanquribao-23&quot;&gt;英文版&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.cn/%E5%AD%B5%E5%8C%96Twitter-%E4%BB%8E%E8%9B%AE%E8%8D%92%E5%88%B0IPO%E7%9A%84%E7%8B%82%E9%87%8E%E6%97%85%E7%A8%8B-%E5%B0%BC%E5%85%8B%C2%B7%E6%AF%94%E5%B0%94%E9%A1%BF/dp/B00GIEO8M8/?_encoding=UTF8&amp;amp;camp=536&amp;amp;creative=3200&amp;amp;keywords=hatching%20twitter%20a%20true%20story%20of%20money%20power%20friendship%20and%20betrayal&amp;amp;linkCode=ur2&amp;amp;qid=1409197580&amp;amp;sr=8-2&amp;amp;tag=wanquribao-23&quot;&gt;中文版&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;《The Launch Pad: Inside Y Combinator》- Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;这本书讲了很多有趣的YC公司的故事，包括最近刚被Amazon以10亿收购的Twitch。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.cn/Hatching-Twitter-A-True-Story-of-Money-Power-Friendship-and-Betrayal-Bilton-Nick/dp/1591847087/?_encoding=UTF8&amp;amp;camp=536&amp;amp;creative=3200&amp;amp;keywords=hatching%20twitter%20a%20true%20story%20of%20money%20power%20friendship%20and%20betrayal&amp;amp;linkCode=ur2&amp;amp;qid=1409197580&amp;amp;sr=8-1&amp;amp;tag=wanquribao-23&quot;&gt;英文版&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00LS6VIXI/?_encoding=UTF8&amp;amp;camp=536&amp;amp;creative=3200&amp;amp;linkCode=ur2&amp;amp;refRID=0T8CDJR54C619CRSJN7P&amp;amp;tag=wanquribao-23&quot;&gt;中文版&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;闲谈&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;屌丝应该知道的 6 个残酷人生事实（血泪翻译）- Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://justjavac.com/other/2014/06/12/6-harsh-truths-that-will-make-you-a-better-person.html&quot;&gt;http://justjavac.com/other/2014/06/12/6-harsh-truths-that-will-make-you-a-better-person.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;经常prototype，改变你一生 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/article/20140826164300-6488620-how-thinking-small-can-change-your-life&quot;&gt;https://www.linkedin.com/pulse/article/20140826164300-6488620-how-thinking-small-can-change-your-life&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;据称是Pulse的创始人所写，这个Pulse不是我们现在做的EA Pulse而是LinkedIn的&lt;Pulse&gt;. 我喜欢他里面说的一句话 &amp;quot;It wouldn’t look pretty, it wouldn’t be full operational, it wouldn’t be polished, but it would be enough to tell a story and get feedback from potential customers.&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Startup要成功，得要有清楚的目标 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://onstartups.com/startup-traction-starts-with-the-right-goal.-how-to-get-it-right&quot;&gt;http://onstartups.com/startup-traction-starts-with-the-right-goal.-how-to-get-it-right&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;文中拿Duckduckgo为例，相信我们公司已经有部分人知道Duckduckgo，有没有兴趣了解更多啊或者开始了解它。回头想想我们公司不也是这样定目标一步步的前进吗，15FY - CA$ 2.4 Million , 16FY - CA$ 3.6 Million, 17FY - CA$ 6 Million，还有我们的Performance Review(smile)&lt;/li&gt;
+&lt;li&gt;What&amp;#39;s yours traction goal?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;一起来参观一下国外的点评网，参观Yelp总部 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://techcrunch.com/2014/08/05/tc-cribs-yelp/&quot;&gt;http://techcrunch.com/2014/08/05/tc-cribs-yelp/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Apple回应明星艳照被盗事件 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.apple.com/pr/library/2014/09/02Apple-Media-Advisory.html&quot;&gt;http://www.apple.com/pr/library/2014/09/02Apple-Media-Advisory.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;你是那种捕风捉影的人，还是看问题看本质，是一有小问题，就说整个系统挂了。从这个声明中看，Apple的系统没有被全面攻入，只是一些个人账号被盗(估计被钓鱼了).&lt;br&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;特别感谢支持X+Z分享并做出贡献的人，&amp;quot;三克油给你妈吃&amp;quot;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;特别提醒: X+Z分享每隔三周的周五推出.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;第一时间得获知分享，请关注公司微信公众账号.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 17 Oct 2014 00:00:00 +0800</pubDate>
+        <link>http://www.xplusz.com/2014/10/17/x-plus-z-sharing---003.html</link>
+        <guid isPermaLink="true">http://www.xplusz.com/2014/10/17/x-plus-z-sharing---003.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>X Plus Z Sharing   002</title>
+        <description>&lt;h1&gt;X Plus Z 分享（第二期）&lt;/h1&gt;
+
+&lt;p&gt;&lt;code&gt;引用经典&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Stay Foolish, Stay Hungry&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;大智若愚，求知若渴.&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;本期TED 分享&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How to live before you die
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ted.com/talks/steve_jobs_how_to_live_before_you_die&quot;&gt;http://www.ted.com/talks/steve_jobs_how_to_live_before_you_die&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;Front-end&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Javascript 构建工具对比Grunt vs. Gulp vs. NPM - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://modernweb.com/2014/08/04/choose-grunt-gulp-npm/&quot;&gt;http://modernweb.com/2014/08/04/choose-grunt-gulp-npm/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;AngularJS + Bootstrap 做的响应式Dashboard - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ehesp.github.io/Responsive-Dashboard/&quot;&gt;http://ehesp.github.io/Responsive-Dashboard/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Amygdala简介，一个Javascript REST Client - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://lincolnloop.com/blog/introducing-amygdala-javascript-rest-client/&quot;&gt;http://lincolnloop.com/blog/introducing-amygdala-javascript-rest-client/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;如何开始学习node.js - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/9629682&quot;&gt;http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/9629682&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;只需要几个简单优化就可以加速你的AngularJS应用 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135&quot;&gt;http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;AngularJS Isolate Scopes Explanied - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.codetunnel.io/isolate-scopes-explained/&quot;&gt;http://www.codetunnel.io/isolate-scopes-explained/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;用Sails.js, Angular.js和Require.js创建一个应用程序 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://modernweb.com/2014/07/29/create-an-app-sails-angular-require-pt-1/&quot;&gt;http://modernweb.com/2014/07/29/create-an-app-sails-angular-require-pt-1/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;一位来子台湾的妹子学习AngularJS后写的心得 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.winwu.today/search?updated-max=2014-01-20T20:28:00%2B08:00&amp;amp;max-results=3&amp;amp;start=24&amp;amp;by-date=false&quot;&gt;http://blog.winwu.today/search?updated-max=2014-01-20T20:28:00%2B08:00&amp;amp;max-results=3&amp;amp;start=24&amp;amp;by-date=false&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;前后端分离的思考与实践 - Shared by Sid
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/&quot;&gt;http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;Back-end&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Top 4 Java Web Frameworks Revealed: Real Life Usage Data of Spring MVC, Vaadin, GWT and JSF - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.dzone.com/links/r/spring_mvc_vaadin_gwt_and_jsf_a_deeper_look_at_st.html&quot;&gt;http://www.dzone.com/links/r/spring_mvc_vaadin_gwt_and_jsf_a_deeper_look_at_st.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;分布式消息系统：Kafka - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.biaodianfu.com/kafka.html&quot;&gt;http://www.biaodianfu.com/kafka.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;单元测试Checklist - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&amp;lt;下载 PDF (Download)&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Grails + AngularJS集成 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/hantsy/angularjs-grails-sample&quot;&gt;https://github.com/hantsy/angularjs-grails-sample&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Code Review清单 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.importnew.com/12511.html&quot;&gt;http://www.importnew.com/12511.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;搞清楚你的Java Heap Memory Size - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.mkyong.com/java/find-out-your-java-heap-memory-size/&quot;&gt;http://www.mkyong.com/java/find-out-your-java-heap-memory-size/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;泛型的古怪与优雅 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.importnew.com/12364.html&quot;&gt;http://www.importnew.com/12364.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;如何更好地利用Pmd、Findbugs和CheckStyle分析结果 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.importnew.com/11119.html&quot;&gt;http://www.importnew.com/11119.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;Test&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Deskjs网站功能测试 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://dalekjs.com/&quot;&gt;http://dalekjs.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;HR&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;招人更看重cultural fits - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://thenextweb.com/insider/2013/10/27/startup-hiring-isnt-just-qualifications-finding-cultural-fits/&quot;&gt;http://thenextweb.com/insider/2013/10/27/startup-hiring-isnt-just-qualifications-finding-cultural-fits/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Amazon前技术副总裁解剖完美技术面试 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.jobbole.com/61751/&quot;&gt;http://blog.jobbole.com/61751/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;前端程序面试题 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/darcyclarke/Front-end-Developer-Interview-Questions&quot;&gt;https://github.com/darcyclarke/Front-end-Developer-Interview-Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;软件面试实战指南 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.jobbole.com/70900/&quot;&gt;http://blog.jobbole.com/70900/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;招聘录用与决策 - Shared by Summer
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hrloo.com/dk/70698&quot;&gt;http://www.hrloo.com/dk/70698&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;越到后面越不清楚招什么样的人，怎么办？- Shared by Summer
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hrloo.com/dk/70668&quot;&gt;http://www.hrloo.com/dk/70668&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;中西融合，打造开放式企业文化 - Shared by Scandy
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hr.com.cn/p/10024.html&quot;&gt;http://www.hr.com.cn/p/10024.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;工具&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Docket中文指南 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.widuu.com/chinese_docker/&quot;&gt;http://www.widuu.com/chinese_docker/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;妈妈再也不用担心我不会“翻墙”了- Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=tags/78&quot;&gt;https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=tags/78&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;邮件发出前请让我来帮你检查一下 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.1checker.com/&quot;&gt;http://www.1checker.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;还来推荐SourceTree - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.sourcetreeapp.com/&quot;&gt;http://www.sourcetreeapp.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;隐藏不常用的图标，为你的工具栏释放更多的空间(Mac) - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.macbartender.com/&quot;&gt;http://www.macbartender.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;IntelliJ IDEA 14预览版发布 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.jetbrains.com/idea/2014/06/intellij-idea-14-early-preview-is-available/&quot;&gt;http://blog.jetbrains.com/idea/2014/06/intellij-idea-14-early-preview-is-available/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;一个黑客的写的git guide - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://wildlyinaccurate.com/a-hackers-guide-to-git&quot;&gt;http://wildlyinaccurate.com/a-hackers-guide-to-git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;To be professional&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;除了完成MANAGER分配的事，还有哪些事是你主动去完成的?&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;程序员为什么要写博客 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://java.dzone.com/articles/why-software-engineers-should&quot;&gt;http://java.dzone.com/articles/why-software-engineers-should&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;用Jekyll和github搭建自己的博客 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/&quot;&gt;http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;高效人士必备 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.rescuetime.com/getting_started&quot;&gt;https://www.rescuetime.com/getting_started&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;打造你自己的程序员品牌 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.infoq.com/cn/news/2014/02/building-programmer-brand&quot;&gt;http://www.infoq.com/cn/news/2014/02/building-programmer-brand&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;jQuery之父：每天都写点代码 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.jobbole.com/66227/&quot;&gt;http://blog.jobbole.com/66227/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;重装系统就是这么简单(Mac) - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mattstauffer.co/blog/setting-up-a-new-os-x-development-machine-part-1-core-files-and-custom-shell&quot;&gt;http://mattstauffer.co/blog/setting-up-a-new-os-x-development-machine-part-1-core-files-and-custom-shell&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;作为一个程序员，你的进步完全取决于你自己 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.jobbole.com/68875/&quot;&gt;http://blog.jobbole.com/68875/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;闲谈&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;员工(人才),留得住是因为本身就留得住；留不住的,你永远留不住 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cnblogs.com/shenyisyn/p/3756543.html&quot;&gt;http://www.cnblogs.com/shenyisyn/p/3756543.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;为什么 Bill Gates 等硅谷的老大们都在自己头上浇冰水？- Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://cn.engadget.com/2014/08/16/ice-bucket-challenge-explained/#continued&quot;&gt;http://cn.engadget.com/2014/08/16/ice-bucket-challenge-explained/#continued&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;同工不同酬？年薪 50 萬美金的工程師到底作哪些工作啊？- Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://winston-zh.attlin.com/2014/03/50.html&quot;&gt;http://winston-zh.attlin.com/2014/03/50.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;偉大航道的遊戲規則 - 軟體工程師篇 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://winston-zh.attlin.com/2014/07/blog-post.html&quot;&gt;http://winston-zh.attlin.com/2014/07/blog-post.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;不要在创造没人想要的产品 - 如何验证你的商业理念 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://hatchery.io/how-to-validate-your-business-idea-by-testing-a-hypothesis.html&quot;&gt;http://hatchery.io/how-to-validate-your-business-idea-by-testing-a-hypothesis.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;为什么年事已高的我还在编程？- Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://code.csdn.net/news/2820711&quot;&gt;http://code.csdn.net/news/2820711&lt;/a&gt;&lt;br&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;特别感谢支持X+Z分享并做出贡献的人，&amp;quot;三克油给你妈吃&amp;quot;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;特别提醒: X+Z分享每隔三周的周五推出.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;第一时间得获知分享，请关注公司微信公众账号.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 17 Oct 2014 00:00:00 +0800</pubDate>
+        <link>http://www.xplusz.com/2014/10/17/x-plus-z-sharing---002.html</link>
+        <guid isPermaLink="true">http://www.xplusz.com/2014/10/17/x-plus-z-sharing---002.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>X Plus Z Sharing   001</title>
+        <description>&lt;h1&gt;X Plus Z 分享（第一期）&lt;/h1&gt;
 
 &lt;p&gt;&lt;code&gt;引用经典&lt;/code&gt;&lt;/p&gt;
 
@@ -35,117 +1015,213 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://markdotto.com/&quot;&gt;http://markdotto.com/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;博客分享：让我们再聊聊浏览器资源加载优化 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://www.infoq.com/cn/articles/browser-resource-loading-optimization#anch111303&lt;/li&gt;
-&lt;li&gt;博客分享：CSS的魔力 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://adamschwartz.co/magic-of-css/&lt;/li&gt;
-&lt;li&gt;网站分享：创建、测试和维护一个大型JavaScript代码库并不容易，尤其很难找到一个有关于如何去做这些事的强大资源。这里集合了一系列有关上述话题的最好的文章，视频以及展示。 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://superherojs.com/&lt;/li&gt;
-&lt;li&gt;TDD在Angular中的实现 - Shared by Jack&lt;/li&gt;
-&lt;li&gt;http://quickleft.com/blog/angularjs-unit-testing-for-real-though&lt;/li&gt;
-&lt;li&gt;三个你可能感兴趣的Javascript API - shared by Jack&lt;/li&gt;
-&lt;li&gt;http://www.sitepoint.com/3-new-javascript-apis-may-want-follow/&lt;/li&gt;
-&lt;li&gt;网站分享：iOS 通知中心扩展制作入门 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://onevcat.com/2014/08/notification-today-widget/&lt;/li&gt;
+&lt;li&gt;博客分享：让我们再聊聊浏览器资源加载优化 -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.infoq.com/cn/articles/browser-resource-loading-optimization#anch111303&quot;&gt;http://www.infoq.com/cn/articles/browser-resource-loading-optimization#anch111303&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;博客分享：CSS的魔力 -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://adamschwartz.co/magic-of-css/&quot;&gt;http://adamschwartz.co/magic-of-css/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;网站分享：创建、测试和维护一个大型JavaScript代码库并不容易，尤其很难找到一个有关于如何去做这些事的强大资源。这里集合了一系列有关上述话题的最好的文章，视频以及展示。 -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://superherojs.com/&quot;&gt;http://superherojs.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;TDD在Angular中的实现 - Shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://quickleft.com/blog/angularjs-unit-testing-for-real-though&quot;&gt;http://quickleft.com/blog/angularjs-unit-testing-for-real-though&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;三个你可能感兴趣的Javascript API - shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.sitepoint.com/3-new-javascript-apis-may-want-follow/&quot;&gt;http://www.sitepoint.com/3-new-javascript-apis-may-want-follow/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;网站分享：iOS 通知中心扩展制作入门 -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://onevcat.com/2014/08/notification-today-widget/&quot;&gt;http://onevcat.com/2014/08/notification-today-widget/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr&gt;
 
-&lt;h4&gt;Back-end&lt;/h4&gt;
+&lt;h6&gt;Back-end&lt;/h6&gt;
 
 &lt;ul&gt;
-&lt;li&gt;博客分享：专注于软件开发和交付的全球性软件网站 -shared by Angelo&lt;/li&gt;
-&lt;li&gt;http://www.thoughtworks.com/blogs&lt;/li&gt;
-&lt;li&gt;博客分享：关于Grails, Groovy和Java的博客 -shared by Angelo&lt;/li&gt;
-&lt;li&gt;http://burtbeckwith.com/blog/&lt;/li&gt;
-&lt;li&gt;博客分享：&lt;/li&gt;
-&lt;li&gt;http://martinfowler.com/  -shared by Angelo&lt;/li&gt;
-&lt;li&gt;博客分享：如何制作好的软件  -shared by Angelo&lt;/li&gt;
-&lt;li&gt;http://www.makinggoodsoftware.com/&lt;/li&gt;
+&lt;li&gt;博客分享：专注于软件开发和交付的全球性软件网站 -shared by Angelo
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.thoughtworks.com/blogs&quot;&gt;http://www.thoughtworks.com/blogs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;博客分享：关于Grails, Groovy和Java的博客 -shared by Angelo
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://burtbeckwith.com/blog/&quot;&gt;http://burtbeckwith.com/blog/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;博客分享：
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://martinfowler.com/&quot;&gt;http://martinfowler.com/&lt;/a&gt;  -shared by Angelo&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;博客分享：如何制作好的软件  -shared by Angelo
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.makinggoodsoftware.com/&quot;&gt;http://www.makinggoodsoftware.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr&gt;
 
-&lt;h4&gt;Test&lt;/h4&gt;
+&lt;h6&gt;Test&lt;/h6&gt;
 
 &lt;ul&gt;
-&lt;li&gt;博客分享：经营成功的测试职业生涯  -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://blog.jobbole.com/74611/&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Selenium2 WebDriver 入门指南 -shared by Carol&lt;/li&gt;
-&lt;li&gt;Word版下载&lt;/li&gt;
-&lt;li&gt;关于测试人员的职业发展 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://www.cnblogs.com/skytraveler/p/3876707.html&lt;/li&gt;
+&lt;li&gt;博客分享：经营成功的测试职业生涯  -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.jobbole.com/74611/&quot;&gt;http://blog.jobbole.com/74611/&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Selenium2 WebDriver 入门指南 -shared by Carol
+
+&lt;ul&gt;
+&lt;li&gt;&lt;Word版下载&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;关于测试人员的职业发展 -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cnblogs.com/skytraveler/p/3876707.html&quot;&gt;http://www.cnblogs.com/skytraveler/p/3876707.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr&gt;
 
-&lt;h4&gt;HR&lt;/h4&gt;
+&lt;h6&gt;HR&lt;/h6&gt;
 
 &lt;ul&gt;
-&lt;li&gt;博客分享：4个步骤教你如何省时省钱招聘程序员 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://www.donnfelker.com/how-to-hire-programmers/&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;论坛分享：三茅人力资源网 -shared by Summer&lt;/li&gt;
-&lt;li&gt;http://www.hrloo.com/&lt;/li&gt;
-&lt;li&gt;论坛分享：中国人力资源论坛 -shared by Summer&lt;/li&gt;
-&lt;li&gt;http://www.chinahrbbs.cn/default.php&lt;/li&gt;
-&lt;li&gt;论坛分享：HR369人力资源论坛  -shared by Summer&lt;/li&gt;
-&lt;li&gt;http://bbs.hr369.com/forum.php&lt;/li&gt;
-&lt;li&gt;网站分享：职场那些事 -shared by Summer&lt;/li&gt;
-&lt;li&gt;http://www.d1money.com/stock/childrenGroup?groupId=2755&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;管理&lt;/h4&gt;
+&lt;li&gt;博客分享：4个步骤教你如何省时省钱招聘程序员 -shared by Jack
 
 &lt;ul&gt;
-&lt;li&gt;博客分享：Kim Scott的管理学：源自她在Google、苹果、Dropbox、Twitter和Square等公司的工作经验 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://firstround.com/article/My-Management-Lessons-from-Three-Failed-Startups-Google-Apple-Dropbox-Twitter-and-Square&lt;/li&gt;
-&lt;li&gt;什么时候从Scrum转成Kanban -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://java.dzone.com/articles/when-dump-scrum-kanban&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.donnfelker.com/how-to-hire-programmers/&quot;&gt;http://www.donnfelker.com/how-to-hire-programmers/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;论坛分享：三茅人力资源网 -shared by Summer
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hrloo.com/&quot;&gt;http://www.hrloo.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;论坛分享：中国人力资源论坛 -shared by Summer
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.chinahrbbs.cn/default.php&quot;&gt;http://www.chinahrbbs.cn/default.php&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;论坛分享：HR369人力资源论坛  -shared by Summer
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://bbs.hr369.com/forum.php&quot;&gt;http://bbs.hr369.com/forum.php&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;网站分享：职场那些事 -shared by Summer
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.d1money.com/stock/childrenGroup?groupId=2755&quot;&gt;http://www.d1money.com/stock/childrenGroup?groupId=2755&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr&gt;
 
-&lt;h4&gt;工具&lt;/h4&gt;
+&lt;h6&gt;管理&lt;/h6&gt;
 
 &lt;ul&gt;
-&lt;li&gt;网站分享：深入浅出Docker（一）：Docker核心技术预览 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://www.infoq.com/cn/articles/docker-core-technology-preview&lt;/li&gt;
-&lt;li&gt;你的Terminal从来没有如此爽过 - recommended by Jack&lt;/li&gt;
-&lt;li&gt;http://ohmyz.sh/&lt;/li&gt;
-&lt;li&gt;让你感受在Terminal中使用狙击枪的感脚 -recommended by Jack&lt;/li&gt;
-&lt;li&gt;https://github.com/rupa/z/&lt;/li&gt;
+&lt;li&gt;博客分享：Kim Scott的管理学：源自她在Google、苹果、Dropbox、Twitter和Square等公司的工作经验 -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://firstround.com/article/My-Management-Lessons-from-Three-Failed-Startups-Google-Apple-Dropbox-Twitter-and-Square&quot;&gt;http://firstround.com/article/My-Management-Lessons-from-Three-Failed-Startups-Google-Apple-Dropbox-Twitter-and-Square&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;什么时候从Scrum转成Kanban -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://java.dzone.com/articles/when-dump-scrum-kanban&quot;&gt;http://java.dzone.com/articles/when-dump-scrum-kanban&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4&gt;To be professional&lt;/h4&gt;
+&lt;hr&gt;
+
+&lt;h6&gt;工具&lt;/h6&gt;
 
 &lt;ul&gt;
-&lt;li&gt;一起来膜拜一下大神：全球最杰出的14位程序员 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://codecloud.net/top14-programmer-1933.html&lt;/li&gt;
-&lt;li&gt;程序员，请优先提高代码的可读性 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://va.lent.in/optimize-for-readability-first/&lt;/li&gt;
-&lt;li&gt;维护编程的高贵艺术 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://blog.codinghorror.com/the-noble-art-of-maintenance-programming/&lt;/li&gt;
-&lt;li&gt;如何成为一个卓越的程序员 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer&lt;/li&gt;
-&lt;li&gt;优秀程序员的十个特质 -shared by Jack&lt;/li&gt;
-&lt;li&gt;http://readwrite.com/2008/04/07/top&lt;em&gt;10&lt;/em&gt;software&lt;em&gt;engineer&lt;/em&gt;traits&lt;/li&gt;
+&lt;li&gt;网站分享：深入浅出Docker（一）：Docker核心技术预览 -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.infoq.com/cn/articles/docker-core-technology-preview&quot;&gt;http://www.infoq.com/cn/articles/docker-core-technology-preview&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;你的Terminal从来没有如此爽过 - recommended by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ohmyz.sh/&quot;&gt;http://ohmyz.sh/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;让你感受在Terminal中使用狙击枪的感脚 -recommended by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/rupa/z/&quot;&gt;https://github.com/rupa/z/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4&gt;闲谈&lt;/h4&gt;
+&lt;hr&gt;
+
+&lt;h6&gt;To be professional&lt;/h6&gt;
 
 &lt;ul&gt;
-&lt;li&gt;如何做一个合格的程序猿媳妇 - shared by Jack&lt;/li&gt;
-&lt;li&gt;http://jianshu.io/p/492903fb7005&lt;/li&gt;
-&lt;li&gt;谈谈自己造轮子&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;http://blog.csdn.net/siddontang/article/details/24765201&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;一起来膜拜一下大神：全球最杰出的14位程序员 -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://codecloud.net/top14-programmer-1933.html&quot;&gt;http://codecloud.net/top14-programmer-1933.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;程序员，请优先提高代码的可读性 -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://va.lent.in/optimize-for-readability-first/&quot;&gt;http://va.lent.in/optimize-for-readability-first/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;维护编程的高贵艺术 -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.codinghorror.com/the-noble-art-of-maintenance-programming/&quot;&gt;http://blog.codinghorror.com/the-noble-art-of-maintenance-programming/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;如何成为一个卓越的程序员 -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer&quot;&gt;http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;优秀程序员的十个特质 -shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://readwrite.com/2008/04/07/top_10_software_engineer_traits&quot;&gt;http://readwrite.com/2008/04/07/top_10_software_engineer_traits&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h6&gt;闲谈&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;如何做一个合格的程序猿媳妇 - shared by Jack
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://jianshu.io/p/492903fb7005&quot;&gt;http://jianshu.io/p/492903fb7005&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;谈谈自己造轮子&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/siddontang/article/details/24765201&quot;&gt;http://blog.csdn.net/siddontang/article/details/24765201&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;特别感谢支持X+Z分享并做出贡献的人，&amp;quot;三克油给你妈吃&amp;quot;.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;特别提醒: X+Z分享每逢双周的周五推出.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;第一时间得获知分享，请关注公司微信公众账号.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 13 Oct 2014 00:00:00 -0700</pubDate>
-        <link>http://www.xplusz.com/2014/10/13/x-plus-z-blog-online.html</link>
-        <guid isPermaLink="true">http://www.xplusz.com/2014/10/13/x-plus-z-blog-online.html</guid>
+        <pubDate>Fri, 17 Oct 2014 00:00:00 +0800</pubDate>
+        <link>http://www.xplusz.com/2014/10/17/x-plus-z-sharing---001.html</link>
+        <guid isPermaLink="true">http://www.xplusz.com/2014/10/17/x-plus-z-sharing---001.html</guid>
         
         
       </item>
