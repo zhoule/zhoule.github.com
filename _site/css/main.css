@@ -199,16 +199,16 @@ body {
         width: 86px;
         height: 182px; } }
 
-.content code {
+body code {
   border: 0;
   border-radius: 0;
   background-color: transparent;
   font-family: Gotham-Book; }
 
-.post-content code {
+.post-content code, section code {
   border: 1px solid #e8e8e8;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: #F8F8F8;
   font-family: Gotham-Book; }
 
 .teaserimage {
@@ -375,7 +375,7 @@ body {
     .content {
       padding: 0 32px; } }
   .content article {
-    padding: 40px 0;
+    padding: 20px 0;
     border-bottom: 1px solid #f2f2f0; }
     .content article:last-child {
       border-bottom: 0px; }
@@ -849,7 +849,7 @@ code {
   font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
-  background-color: #eef; }
+  background-color: #F8F8F8; }
 
 code {
   padding: 1px 5px; }

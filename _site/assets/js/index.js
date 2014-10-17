@@ -34,6 +34,11 @@
 
         $(".post-content").find("a").attr("target", "_blank");
 
+        $.each($("section").find("code"), function(){
+            if($.trim($(this).html())=="")
+              $(this).remove();
+        });
+
     });
 
 }(jQuery));
