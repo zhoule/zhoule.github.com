@@ -60,24 +60,46 @@ body
   position: fixed
   left: 10px
   top: 0px
-  width: 86px
-  height: 182px
+  @media only screen and (min-width: 320px) and (max-width: 480px)
+    width: 39px
+    height: 80px
+  @media only screen and (min-width: 481px)
+    width: 86px
+    height: 182px
   z-index: 99999
   .logo
     display: block
     position: absolute
     top: 0px
     left: 0px
-    width: 86px
-    height: 182px
+    @media only screen and (min-width: 320px) and (max-width: 480px)
+      width: 39px
+      height: 80px
+    @media only screen and (min-width: 481px)
+      width: 86px
+      height: 182px
     background-size: cover
     background-repeat: no-repeat
-
+.content
+  code
+    border: 0
+    border-radius: 0
+    background-color: transparent
+    font-family: Gotham-Book
+.post-content
+  code
+    border: 1px solid #e8e8e8
+    border-radius: 3px
+    background-color: #eef
+    font-family: Gotham-Book
 .teaserimage
   height: 450px
   position: relative
   overflow: hidden
   background-color: #000
+  // @media only screen and (min-width: 320px) and (max-width: 480px)
+  //   margin-top: 58px
+  // @media only screen and (min-width: 481px)
   margin-top: 88px
   .teaserimage-image
     background-size: cover
@@ -126,8 +148,15 @@ body
             font-size: 43px
             height: 41px
 .blog-topbar
-  height: 88px
+
+  // @media only screen and (min-width: 320px) and (max-width: 480px)
+  //   width: 39px
+  //   height: 58px
+  //   line-height: 58px
+  // @media only screen and (min-width: 481px)
   position: fixed
+  height: 88px
+  line-height: 88px
   top: 0
   left: 0
   z-index: 999
@@ -135,7 +164,6 @@ body
   opacity: 0.8
   width: 100%
   text-align: right
-  line-height: 88px
   border-bottom: 1px solid #C4C4C4
   .link-border
     display: inline-block
@@ -147,6 +175,9 @@ body
     margin-right: 15px
     padding: 0px 10px
     font-weight: bold
+    // @media only screen and (min-width: 320px) and (max-width: 480px)
+    //   height: 54px
+    // @media only screen and (min-width: 481px)
     height: 84px
     cursor: pointer
     color: #D5D5D5
