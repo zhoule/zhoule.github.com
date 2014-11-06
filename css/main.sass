@@ -97,10 +97,8 @@ body
   position: relative
   overflow: hidden
   background-color: #000
-  // @media only screen and (min-width: 320px) and (max-width: 480px)
-  //   margin-top: 58px
-  // @media only screen and (min-width: 481px)
-  margin-top: 88px
+  @media only screen and (min-width: 481px)
+    margin-top: 88px
   .teaserimage-image
     background-size: cover
     background-position: center
@@ -149,14 +147,13 @@ body
             height: 41px
 .blog-topbar
 
-  // @media only screen and (min-width: 320px) and (max-width: 480px)
-  //   width: 39px
-  //   height: 58px
-  //   line-height: 58px
-  // @media only screen and (min-width: 481px)
-  position: fixed
-  height: 88px
-  line-height: 88px
+  @media only screen and (min-width: 320px) and (max-width: 480px)
+    height: 58px
+    line-height: 58px
+  @media only screen and (min-width: 481px)
+    height: 88px
+    line-height: 88px
+    position: fixed
   top: 0
   left: 0
   z-index: 999
@@ -175,10 +172,10 @@ body
     margin-right: 15px
     padding: 0px 10px
     font-weight: bold
-    // @media only screen and (min-width: 320px) and (max-width: 480px)
-    //   height: 54px
-    // @media only screen and (min-width: 481px)
-    height: 84px
+    @media only screen and (min-width: 320px) and (max-width: 480px)
+      height: 54px
+    @media only screen and (min-width: 481px)
+      height: 84px
     cursor: pointer
     color: #D5D5D5
     text-decoration: none
@@ -745,3 +742,15 @@ pre
     border: 0
     padding-right: 0
     padding-left: 0
+
+.show-sharing
+  .sharing
+    display: block
+  .activity
+    display: none
+
+.show-activity
+  .sharing
+    display: none
+  .activity
+    display: block

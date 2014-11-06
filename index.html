@@ -25,7 +25,7 @@ layout: default
       <a class="blog-logo topofpage" href="#hidetitle"></a>
       <a class="show-cases"></a>
 
-    <h1 class="blog-title">SHARING</h1><a id="scrollTitle"></a>
+    <h1 class="blog-title">ALL</h1><a id="scrollTitle"></a>
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
       {% for social in site.social %}
@@ -60,12 +60,11 @@ layout: default
     }(jQuery));
 </script>
 
-<main class="content" role="main">
+<main class="content" role="main" id="main-content">
 
-    <!-- <h5 class="index-headline featured"><span>Featured</span></h5> -->
-
-    <div class="container featured">
-      {% for post in site.tags.featured %}
+    <div class="container featured sharing">
+    <h5 class="index-headline featured"><span>SHARING</span></h5>
+      {% for post in site.tags.sharings %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
@@ -82,11 +81,9 @@ layout: default
         </article>
       {% endfor %}
     </div>
-
-    <h5 class="index-headline normal"><span>SHARING</span></h5>
-
-    <div class="cf frame">
-      {% for post in paginator.posts %}
+    <div class="cf frame activity">
+    <h5 class="index-headline normal"><span>ACTIVITY</span></h5>
+      {% for post in site.tags.activities %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">

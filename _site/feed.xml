@@ -5,9 +5,29 @@
     <description></description>
     <link>http://blog.xplusz.com//</link>
     <atom:link href="http://blog.xplusz.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 17 Oct 2014 16:33:36 +0800</pubDate>
-    <lastBuildDate>Fri, 17 Oct 2014 16:33:36 +0800</lastBuildDate>
+    <pubDate>Thu, 06 Nov 2014 21:59:01 +0800</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2014 21:59:01 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>X Plus Z Sharing   006</title>
+        <description></description>
+        <pubDate>Thu, 06 Nov 2014 00:00:00 +0800</pubDate>
+        <link>http://blog.xplusz.com//2014/11/06/x-plus-z-sharing---006.html</link>
+        <guid isPermaLink="true">http://blog.xplusz.com//2014/11/06/x-plus-z-sharing---006.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>testing</title>
+        <description></description>
+        <pubDate>Thu, 06 Nov 2014 00:00:00 +0800</pubDate>
+        <link>http://blog.xplusz.com//2014/11/06/testing.html</link>
+        <guid isPermaLink="true">http://blog.xplusz.com//2014/11/06/testing.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>X Plus Z 分享（第五期）</title>
@@ -264,6 +284,8 @@
         <pubDate>Fri, 17 Oct 2014 00:00:00 +0800</pubDate>
         <link>http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---005.html</link>
         <guid isPermaLink="true">http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---005.html</guid>
+        
+        <category>sharings</category>
         
         
       </item>
@@ -549,6 +571,8 @@
         <pubDate>Fri, 17 Oct 2014 00:00:00 +0800</pubDate>
         <link>http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---004.html</link>
         <guid isPermaLink="true">http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---004.html</guid>
+        
+        <category>sharings</category>
         
         
       </item>
@@ -924,6 +948,8 @@
         <link>http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---003.html</link>
         <guid isPermaLink="true">http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---003.html</guid>
         
+        <category>sharings</category>
+        
         
       </item>
     
@@ -1232,6 +1258,8 @@
         <link>http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---002.html</link>
         <guid isPermaLink="true">http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---002.html</guid>
         
+        <category>sharings</category>
+        
         
       </item>
     
@@ -1467,6 +1495,8 @@
         <pubDate>Fri, 17 Oct 2014 00:00:00 +0800</pubDate>
         <link>http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---001.html</link>
         <guid isPermaLink="true">http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---001.html</guid>
+        
+        <category>sharings</category>
         
         
       </item>

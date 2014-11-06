@@ -215,8 +215,10 @@ body code {
   height: 450px;
   position: relative;
   overflow: hidden;
-  background-color: #000;
-  margin-top: 88px; }
+  background-color: #000; }
+  @media only screen and (min-width: 481px) {
+    .teaserimage {
+      margin-top: 88px; } }
   .teaserimage .teaserimage-image {
     background-size: cover;
     background-position: center;
@@ -265,9 +267,6 @@ body code {
             height: 41px; }
 
 .blog-topbar {
-  position: fixed;
-  height: 88px;
-  line-height: 88px;
   top: 0;
   left: 0;
   z-index: 999;
@@ -276,6 +275,15 @@ body code {
   width: 100%;
   text-align: right;
   border-bottom: 1px solid #C4C4C4; }
+  @media only screen and (min-width: 320px) and (max-width: 480px) {
+    .blog-topbar {
+      height: 58px;
+      line-height: 58px; } }
+  @media only screen and (min-width: 481px) {
+    .blog-topbar {
+      height: 88px;
+      line-height: 88px;
+      position: fixed; } }
   .blog-topbar .link-border {
     display: inline-block;
     border-bottom: 2px solid #A81010;
@@ -286,13 +294,18 @@ body code {
     margin-right: 15px;
     padding: 0px 10px;
     font-weight: bold;
-    height: 84px;
     cursor: pointer;
     color: #D5D5D5;
     text-decoration: none;
     font-family: Gotham-Book, Sans-serif;
     font-size: 13px;
     font-weight: 600; }
+    @media only screen and (min-width: 320px) and (max-width: 480px) {
+      .blog-topbar .text {
+        height: 54px; } }
+    @media only screen and (min-width: 481px) {
+      .blog-topbar .text {
+        height: 84px; } }
     .blog-topbar .text:hover {
       color: #000;
       border-bottom: none;
@@ -861,3 +874,13 @@ pre {
     border: 0;
     padding-right: 0;
     padding-left: 0; }
+
+.show-sharing .sharing {
+  display: block; }
+.show-sharing .activity {
+  display: none; }
+
+.show-activity .sharing {
+  display: none; }
+.show-activity .activity {
+  display: block; }
