@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "X Plus Z Sharing   007"
+title: "X Plus Z 分享（第七期）"
 description: ""
 category: 
 tags: []
 ---
-# X Plus Z 分享（第七期）
 `引用经典`
 `If money can fix it, it's not a problem.`
 
