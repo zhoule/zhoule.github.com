@@ -1,31 +1,11 @@
 ---
 layout: default
 ---
-<div class="teaserimage">
-    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
-        <div class="header-title">
-            <div class="intro">
-                <span class="redx">X</span>
-                <span class="intro-l21">PLUS</span>
-                <span class="redz">Z</span>
-            </div>
-            <div class="intro-l">
-                <span class="intro-l22">{</span>
-                <div class="header-content-middle">
-                    <span class="intro-l1">CRAFTING:</span>
-                    <span class="intro-l23 ultra">CUSTOM</span>
-                    <span class="intro-l1">SOFTWARE;</span>
-                </div>
-                <span class="intro-l22">}</span>
-            </div>
-        </div>
-    </div>
-</div><a id="hidetitle" ></a>
 <header class="blog-header">
       <a class="blog-logo topofpage" href="#hidetitle"></a>
       <a class="show-cases"></a>
 
-    <h1 class="blog-title">SHARING</h1><a id="scrollTitle"></a>
+    <h1 class="blog-title">ALL</h1><a id="scrollTitle"></a>
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
       {% for social in site.social %}
@@ -55,6 +35,8 @@ layout: default
             });
             $window.trigger('scroll');
 
+            $(".link-border").removeClass("link-border");
+            $("[name='homeUrl']").addClass("link-border");
         });
 
     }(jQuery));
@@ -83,7 +65,7 @@ layout: default
       {% endfor %}
     </div>
 
-    <h5 class="index-headline normal"><span>SHARING</span></h5>
+    <h5 class="index-headline normal"><span>ALL</span></h5>
 
     <div class="cf frame">
       {% for post in paginator.posts %}

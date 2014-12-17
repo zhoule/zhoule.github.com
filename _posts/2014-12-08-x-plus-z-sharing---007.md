@@ -2,8 +2,8 @@
 layout: post
 title: "X Plus Z 分享（第七期）"
 description: ""
-category: 
-tags: []
+category: [blog, sharing]
+tags: [sharing]
 ---
 `引用经典`
 `If money can fix it, it's not a problem.`
@@ -21,7 +21,7 @@ tags: []
 * 2 years with Angular - Shared by Jack
     * <http://www.fse.guru/2-years-with-angular>
 * Building a Chat App with node-webkit, Firebase, and AngularJS - Shared by Jack
-    * <http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/>       
+    * <http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/>
     * 有兴趣的可以跟着练练手
 * Testing JS code with CasperJS - Shared by Jack
     * <http://fourword.fourkitchens.com/article/testing-js-code-casperjs>
@@ -69,14 +69,14 @@ tags: []
 * Scapple 轻巧好用的画图工具 - Shared by Jack
     * <https://www.literatureandlatte.com/scapple.php> （公司FTP）
 * Use your team chat app to do your daily chores - Shared by Jack
-    * <http://interbot.co/>                                                                                             
+    * <http://interbot.co/>
     * 非常有意思的app，推荐大家都去注册一个账号然后集成一下你的slack账号
 * Regulex是一个将JS正则表达式显示为流程图的小工具 - Shared by Jack
     * <http://jex.im/regulex/>
 * IntelliJ IDEA资源整合 - Shared by Jack
     * <http://note.youdao.com/share/?id=e067fff1bf982796d480446c9eb274c0&type=note>
 * Gmail for Mac: Finally, Gmail is a true desktop email client - Shared by Jack
-    * <https://www.kickstarter.com/projects/1919581657/gmail-for-mac-finally-gmail-is-a-true-desktop-emai>          
+    * <https://www.kickstarter.com/projects/1919581657/gmail-for-mac-finally-gmail-is-a-true-desktop-emai>
     * 一个Gmail client 的众筹项目，值得的期待大概2015年第一季度会上线
 * 8款Chrome插件让你的新标签页更酷炫  - Shared by Jack
     * <http://www.iteye.com/news/29778>

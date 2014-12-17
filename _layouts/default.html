@@ -4,7 +4,7 @@
   {% include head.html %}
 
   <body>
-    <div class="blog-topbar"><a class="text link-border" href="#top">XPLUSZ | BLOG</a><a class="text" href="#hidetitle">SHARING</a></div>
+    <div class="blog-topbar"><a class="text link-border" name="homeUrl" href="{{ site.homeUrl }}">XPLUSZ | BLOG</a><a class="text" name="sharingUrl" href="{{ site.sharingUrl }}">SHARING</a><a class="text" name="activityUrl" href="{{ site.activityUrl }}">ACTIVITY</a></div>
     <a id="top"></a>
     {% include header.html %}
 
@@ -12,6 +12,26 @@
 
     <div class="page-content">
       <div class="wrapper">
+          <div class="teaserimage">
+              <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
+                  <div class="header-title">
+                      <div class="intro">
+                          <span class="redx">X</span>
+                          <span class="intro-l21">PLUS</span>
+                          <span class="redz">Z</span>
+                      </div>
+                      <div class="intro-l">
+                          <span class="intro-l22">{</span>
+                              <div class="header-content-middle">
+                                  <span class="intro-l1">CRAFTING:</span>
+                                  <span class="intro-l23 ultra">CUSTOM</span>
+                                  <span class="intro-l1">SOFTWARE;</span>
+                              </div>
+                              <span class="intro-l22">}</span>
+                          </div>
+                      </div>
+                  </div>
+              </div><a id="hidetitle" ></a>
         {{ content }}
       </div>
     </div>
