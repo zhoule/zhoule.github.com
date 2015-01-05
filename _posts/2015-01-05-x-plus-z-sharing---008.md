@@ -6,7 +6,6 @@ category: [blog, sharing]
 tags: [sharing]
 ---
 
-# X Plus Z 分享（第八期）
 `引用经典`
 `Do one thing at a time, and do well.`
 
