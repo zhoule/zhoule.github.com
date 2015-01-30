@@ -1,20 +1,11 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: "X plus Z Sharing   008"
-description: ""
-category: 
-tags: []
----
-# X Plus Z 分享（第八期）
-=======
 title: "X Plus Z 分享（第八期）"
 description: ""
 category: [blog, sharing]
 tags: [sharing]
 ---
 
->>>>>>> 9074666b69deb8e12673f434e375e4c3ef048da5
 `引用经典`
 `Do one thing at a time, and do well.`
 
