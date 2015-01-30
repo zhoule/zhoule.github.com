@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "X Plus Z Sharing   009"
+title: "X Plus Z 分享（第九期）"
 description: ""
-category:[blog, sharing] 
+category: [blog, sharing] 
 tags: [sharing]
 --
 
-# X Plus Z 分享（第九期）
 `引用经典`
 
 `Never underestimate your power to change yourself!`
