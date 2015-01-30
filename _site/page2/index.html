@@ -34,7 +34,7 @@
 
 
   <body>
-    <div class="blog-topbar"><a class="text link-border" href="#top">XPLUSZ | BLOG</a><a class="text" href="#hidetitle">SHARING</a></div>
+    <div class="blog-topbar"><a class="text link-border" name="homeUrl" href="/">XPLUSZ | BLOG</a><a class="text" name="sharingUrl" href="/sharing">SHARING</a><a class="text" name="activityUrl" href="/activity">ACTIVITY</a></div>
     <a id="top"></a>
     <!-- header start -->
 
@@ -47,31 +47,31 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/header-bg.png)">
-        <div class="header-title">
-            <div class="intro">
-                <span class="redx">X</span>
-                <span class="intro-l21">PLUS</span>
-                <span class="redz">Z</span>
-            </div>
-            <div class="intro-l">
-                <span class="intro-l22">{</span>
-                <div class="header-content-middle">
-                    <span class="intro-l1">CRAFTING:</span>
-                    <span class="intro-l23 ultra">CUSTOM</span>
-                    <span class="intro-l1">SOFTWARE;</span>
-                </div>
-                <span class="intro-l22">}</span>
-            </div>
-        </div>
-    </div>
-</div><a id="hidetitle" ></a>
-<header class="blog-header">
+          <div class="teaserimage">
+              <div class="teaserimage-image" style="background-image: url(/assets/images/header-bg.png)">
+                  <div class="header-title">
+                      <div class="intro">
+                          <span class="redx">X</span>
+                          <span class="intro-l21">PLUS</span>
+                          <span class="redz">Z</span>
+                      </div>
+                      <div class="intro-l">
+                          <span class="intro-l22">{</span>
+                              <div class="header-content-middle">
+                                  <span class="intro-l1">CRAFTING:</span>
+                                  <span class="intro-l23 ultra">CUSTOM</span>
+                                  <span class="intro-l1">SOFTWARE;</span>
+                              </div>
+                              <span class="intro-l22">}</span>
+                          </div>
+                      </div>
+                  </div>
+              </div><a id="hidetitle" ></a>
+        <header class="blog-header">
       <a class="blog-logo topofpage" href="#hidetitle"></a>
       <a class="show-cases"></a>
 
-    <h1 class="blog-title">SHARING</h1><a id="scrollTitle"></a>
+    <h1 class="blog-title">ALL</h1><a id="scrollTitle"></a>
     <h2 class="blog-description"></h2>
     <div class="custom-links">
       
@@ -96,6 +96,8 @@
             });
             $window.trigger('scroll');
 
+            $(".link-border").removeClass("link-border");
+            $("[name='homeUrl']").addClass("link-border");
         });
 
     }(jQuery));
@@ -109,14 +111,18 @@
       
     </div>
 
-    <h5 class="index-headline normal"><span>SHARING</span></h5>
+    <h5 class="index-headline normal"><span>ALL</span></h5>
 
     <div class="cf frame">
       
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
+<<<<<<< HEAD
               <h2 class="post-title" itemprop="name"><a href="/2014/10/17/x-plus-z-sharing---003.html" itemprop="url">X Plus Z 分享（第三期）</a></h2>
+=======
+              <h2 class="post-title" itemprop="name"><a href="/blog/sharing/2014/10/17/x-plus-z-sharing---003.html" itemprop="url">X Plus Z 分享（第三期）</a></h2>
+>>>>>>> 9074666b69deb8e12673f434e375e4c3ef048da5
             </header>
             <section class="post-excerpt" itemprop="description">
               <p><p><code>引用经典</code></p> <p><code>Start out by making 100 users really happy, rather...</p>
@@ -131,7 +137,11 @@
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
+<<<<<<< HEAD
               <h2 class="post-title" itemprop="name"><a href="/2014/10/17/x-plus-z-sharing---002.html" itemprop="url">X Plus Z 分享（第二期）</a></h2>
+=======
+              <h2 class="post-title" itemprop="name"><a href="/blog/sharing/2014/10/17/x-plus-z-sharing---002.html" itemprop="url">X Plus Z 分享（第二期）</a></h2>
+>>>>>>> 9074666b69deb8e12673f434e375e4c3ef048da5
             </header>
             <section class="post-excerpt" itemprop="description">
               <p><p><code>引用经典</code></p> <p><code>Stay Foolish, Stay Hungry</code></p> <p><code>大智若愚，求知若渴.</code></p> <hr> <h6>本期TED 分享</h6> <ul>...</p>
@@ -146,7 +156,7 @@
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="/2014/10/17/x-plus-z-sharing---001.html" itemprop="url">X Plus Z 分享（第一期）</a></h2>
+              <h2 class="post-title" itemprop="name"><a href="/blog/sharing/2014/10/17/x-plus-z-sharing---001.html" itemprop="url">X Plus Z 分享（第一期）</a></h2>
             </header>
             <section class="post-excerpt" itemprop="description">
               <p><p><code>引用经典</code></p> <p><code>If you have an apple and I have an...</p>

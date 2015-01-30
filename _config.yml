@@ -19,7 +19,12 @@ author_image: "/assets/images/author.jpg"
 paginate:	5
 
 url: "http://blog.xplusz.com/" # the base hostname & protocol for your site
+sharingUrl: "/sharing"
+activityUrl: "/activity" # activity
+homeUrl: "/"
 baseurl: ""
+
+permalink: /:categories/:year/:month/:day/:title.html
 
 # social icons and sharing options
 # social:

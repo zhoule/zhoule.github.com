@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>XPLUSZ | BLOG</title>
+  <meta name="description" content="" />
+
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <link rel="canonical" href="http://blog.xplusz.com//activity/">
+
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+<!--  <link rel="stylesheet" href=""> -->
+  <link rel="stylesheet" href="http://brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
+  <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+
+  <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+  <script type="text/javascript" src="/assets/js/index.js"></script>
+  <script type="text/javascript" src="/assets/js/readingTime.min.js"></script>
+</head>
+
+
+  <body>
+    <div class="blog-topbar"><a class="text link-border" name="homeUrl" href="/">XPLUSZ | BLOG</a><a class="text" name="sharingUrl" href="/sharing">SHARING</a><a class="text" name="activityUrl" href="/activity">ACTIVITY</a></div>
+    <a id="top"></a>
+    <!-- header start -->
+
+<a href="http://blog.xplusz.com/" class="logo-readium"><span class="logo" style="background-image: url(/assets/images/logo.png)"></span></a>
+
+<!-- header end -->
+
+
+    <!-- content start -->
+
+    <div class="page-content">
+      <div class="wrapper">
+          <div class="teaserimage">
+              <div class="teaserimage-image" style="background-image: url(/assets/images/header-bg.png)">
+                  <div class="header-title">
+                      <div class="intro">
+                          <span class="redx">X</span>
+                          <span class="intro-l21">PLUS</span>
+                          <span class="redz">Z</span>
+                      </div>
+                      <div class="intro-l">
+                          <span class="intro-l22">{</span>
+                              <div class="header-content-middle">
+                                  <span class="intro-l1">CRAFTING:</span>
+                                  <span class="intro-l23 ultra">CUSTOM</span>
+                                  <span class="intro-l1">SOFTWARE;</span>
+                              </div>
+                              <span class="intro-l22">}</span>
+                          </div>
+                      </div>
+                  </div>
+              </div><a id="hidetitle" ></a>
+            <header class="blog-header">
+        <a class="blog-logo topofpage" href="#hidetitle"></a>
+        <a class="show-cases"></a>
+
+        <h1 class="blog-title">ACTIVITY</h1><a id="scrollTitle"></a>
+        <h2 class="blog-description"></h2>
+        <div class="custom-links">
+            
+        </div>
+    </header>
+
+    <script>
+    (function ($) {
+        "use strict";
+
+        $(document).ready(function(){
+
+            var $window = $(window),
+            $image = $('.teaserimage-image');
+            $window.on('scroll', function() {
+                var top = $window.scrollTop();
+
+                if (top < 0 || top > 1500) { return; }
+                $image
+                .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
+                .css('opacity', 1-Math.max(top/700, 0));
+            });
+            $window.trigger('scroll');
+
+            $(".link-border").removeClass("link-border");
+            $("[name='activityUrl']").addClass("link-border");
+
+        });
+
+    }(jQuery));
+</script>
+
+<main class="content" role="main">
+
+    <!-- <h5 class="index-headline featured"><span>Featured</span></h5> -->
+
+            <h5 class="index-headline normal"><span>ACTIVITY</span></h5>
+
+            <div class="cf frame">
+                
+                    </div>
+
+                    <!-- <nav class="pagination" role="navigation">
+                        
+                        <span class="page-number">Page  of </span>
+                        
+                    </nav> -->
+
+
+                    <!-- 
+                     -->
+
+                </main>
+
+      </div>
+    </div>
+    <!-- content end -->
+
+    <!-- footer start -->
+
+<footer class="site-footer">
+    <div class="inner">
+         <section class="copyright">All content copyright <a href="mailto:a-mail@mail.mail">X Plus Z</a> &copy; 2014 &bull; All rights reserved.</section>
+         <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
+    </div>
+</footer>
+
+<!-- footer end -->
+
+
+  </body>
+
+</html>

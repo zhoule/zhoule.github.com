@@ -2,8 +2,8 @@
 layout: post
 title: "X Plus Z 分享（第二期）"
 description: ""
-category:
-tags: []
+category: [blog, sharing]
+tags: [sharing]
 ---
 
 

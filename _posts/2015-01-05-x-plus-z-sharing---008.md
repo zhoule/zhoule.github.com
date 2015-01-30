@@ -1,11 +1,20 @@
 ---
 layout: post
+<<<<<<< HEAD
 title: "X plus Z Sharing   008"
 description: ""
 category: 
 tags: []
 ---
 # X Plus Z 分享（第八期）
+=======
+title: "X Plus Z 分享（第八期）"
+description: ""
+category: [blog, sharing]
+tags: [sharing]
+---
+
+>>>>>>> 9074666b69deb8e12673f434e375e4c3ef048da5
 `引用经典`
 `Do one thing at a time, and do well.`
 
@@ -104,4 +113,11 @@ tags: []
 
 * 第一时间得获知分享，请关注公司微信公众账号.
 
+<<<<<<< HEAD
 <img src="https://s3-us-west-1.amazonaws.com/xplusz.com/x%2Bz_weichat.png" alt="X PLUS Z WEICHAT">
+=======
+![X PLUS Z WEICHAT](https://s3-us-west-1.amazonaws.com/xplusz.com/x%2Bz_weichat.png)
+
+
+
+>>>>>>> 9074666b69deb8e12673f434e375e4c3ef048da5

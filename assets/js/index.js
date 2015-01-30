@@ -24,19 +24,11 @@
               .after('<figcaption>'+$(this).attr("alt")+'</figcaption>');
         });
 
-        $(".blog-topbar .text").each(function(){
-            var t = $(this);
-            $(this).on('click',function(){
-                $(".link-border").removeClass("link-border");
-                t.addClass("link-border");
-            });
-        });
-
         $(".post-content").find("a").attr("target", "_blank");
 
-        $.each($("section").find("code"), function(){
+        $("section").find("code").each(function(){
             if($.trim($(this).html())=="")
-              $(this).remove();
+                $(this) && $(this).remove();
         });
 
     });

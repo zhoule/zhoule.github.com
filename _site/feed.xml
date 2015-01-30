@@ -5,12 +5,21 @@
     <description></description>
     <link>http://blog.xplusz.com//</link>
     <atom:link href="http://blog.xplusz.com//feed.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <pubDate>Mon, 05 Jan 2015 08:03:08 +0000</pubDate>
     <lastBuildDate>Mon, 05 Jan 2015 08:03:08 +0000</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
         <title>X plus Z Sharing   008</title>
+=======
+    <pubDate>Mon, 05 Jan 2015 08:22:10 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2015 08:22:10 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>X Plus Z 分享（第八期）</title>
+>>>>>>> 9074666b69deb8e12673f434e375e4c3ef048da5
         <description>&lt;h1&gt;X Plus Z 分享（第八期）&lt;/h1&gt;
 
 &lt;p&gt;&lt;code&gt;引用经典&lt;/code&gt;
@@ -214,9 +223,21 @@
 &lt;p&gt;&lt;img src=&quot;https://s3-us-west-1.amazonaws.com/xplusz.com/x%2Bz_weichat.png&quot; alt=&quot;X PLUS Z WEICHAT&quot;&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
         <link>http://blog.xplusz.com//2015/01/05/x-plus-z-sharing---008.html</link>
         <guid isPermaLink="true">http://blog.xplusz.com//2015/01/05/x-plus-z-sharing---008.html</guid>
         
+=======
+        <link>http://blog.xplusz.com//blog/sharing/2015/01/05/x-plus-z-sharing---008.html</link>
+        <guid isPermaLink="true">http://blog.xplusz.com//blog/sharing/2015/01/05/x-plus-z-sharing---008.html</guid>
+        
+        <category>sharing</category>
+        
+        
+        <category>blog</category>
+        
+        <category>sharing</category>
+>>>>>>> 9074666b69deb8e12673f434e375e4c3ef048da5
         
       </item>
     
@@ -253,7 +274,7 @@
 &lt;li&gt;Building a Chat App with node-webkit, Firebase, and AngularJS - Shared by Jack
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/&quot;&gt;http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/&quot;&gt;http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;有兴趣的可以跟着练练手&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Testing JS code with CasperJS - Shared by Jack
@@ -358,7 +379,7 @@
 &lt;li&gt;Use your team chat app to do your daily chores - Shared by Jack
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://interbot.co/&quot;&gt;http://interbot.co/&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://interbot.co/&quot;&gt;http://interbot.co/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;非常有意思的app，推荐大家都去注册一个账号然后集成一下你的slack账号&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Regulex是一个将JS正则表达式显示为流程图的小工具 - Shared by Jack
@@ -374,7 +395,7 @@
 &lt;li&gt;Gmail for Mac: Finally, Gmail is a true desktop email client - Shared by Jack
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.kickstarter.com/projects/1919581657/gmail-for-mac-finally-gmail-is-a-true-desktop-emai&quot;&gt;https://www.kickstarter.com/projects/1919581657/gmail-for-mac-finally-gmail-is-a-true-desktop-emai&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.kickstarter.com/projects/1919581657/gmail-for-mac-finally-gmail-is-a-true-desktop-emai&quot;&gt;https://www.kickstarter.com/projects/1919581657/gmail-for-mac-finally-gmail-is-a-true-desktop-emai&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;一个Gmail client 的众筹项目，值得的期待大概2015年第一季度会上线&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;8款Chrome插件让你的新标签页更酷炫  - Shared by Jack
@@ -433,9 +454,15 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
-        <link>http://blog.xplusz.com//2014/12/08/x-plus-z-sharing---007.html</link>
-        <guid isPermaLink="true">http://blog.xplusz.com//2014/12/08/x-plus-z-sharing---007.html</guid>
+        <link>http://blog.xplusz.com//blog/sharing/2014/12/08/x-plus-z-sharing---007.html</link>
+        <guid isPermaLink="true">http://blog.xplusz.com//blog/sharing/2014/12/08/x-plus-z-sharing---007.html</guid>
         
+        <category>sharing</category>
+        
+        
+        <category>blog</category>
+        
+        <category>sharing</category>
         
       </item>
     
@@ -669,9 +696,15 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
-        <link>http://blog.xplusz.com//2014/11/06/x-plus-z-sharing---006.html</link>
-        <guid isPermaLink="true">http://blog.xplusz.com//2014/11/06/x-plus-z-sharing---006.html</guid>
+        <link>http://blog.xplusz.com//blog/sharing/2014/11/06/x-plus-z-sharing---006.html</link>
+        <guid isPermaLink="true">http://blog.xplusz.com//blog/sharing/2014/11/06/x-plus-z-sharing---006.html</guid>
         
+        <category>sharing</category>
+        
+        
+        <category>blog</category>
+        
+        <category>sharing</category>
         
       </item>
     
@@ -928,9 +961,15 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
-        <link>http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---005.html</link>
-        <guid isPermaLink="true">http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---005.html</guid>
+        <link>http://blog.xplusz.com//blog/sharing/2014/10/17/x-plus-z-sharing---005.html</link>
+        <guid isPermaLink="true">http://blog.xplusz.com//blog/sharing/2014/10/17/x-plus-z-sharing---005.html</guid>
         
+        <category>sharing</category>
+        
+        
+        <category>blog</category>
+        
+        <category>sharing</category>
         
       </item>
     
@@ -1213,9 +1252,15 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
-        <link>http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---004.html</link>
-        <guid isPermaLink="true">http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---004.html</guid>
+        <link>http://blog.xplusz.com//blog/sharing/2014/10/17/x-plus-z-sharing---004.html</link>
+        <guid isPermaLink="true">http://blog.xplusz.com//blog/sharing/2014/10/17/x-plus-z-sharing---004.html</guid>
         
+        <category>sharing</category>
+        
+        
+        <category>blog</category>
+        
+        <category>sharing</category>
         
       </item>
     
@@ -1587,9 +1632,15 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
-        <link>http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---003.html</link>
-        <guid isPermaLink="true">http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---003.html</guid>
+        <link>http://blog.xplusz.com//blog/sharing/2014/10/17/x-plus-z-sharing---003.html</link>
+        <guid isPermaLink="true">http://blog.xplusz.com//blog/sharing/2014/10/17/x-plus-z-sharing---003.html</guid>
         
+        <category>sharing</category>
+        
+        
+        <category>blog</category>
+        
+        <category>sharing</category>
         
       </item>
     
@@ -1895,9 +1946,15 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
-        <link>http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---002.html</link>
-        <guid isPermaLink="true">http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---002.html</guid>
+        <link>http://blog.xplusz.com//blog/sharing/2014/10/17/x-plus-z-sharing---002.html</link>
+        <guid isPermaLink="true">http://blog.xplusz.com//blog/sharing/2014/10/17/x-plus-z-sharing---002.html</guid>
         
+        <category>sharing</category>
+        
+        
+        <category>blog</category>
+        
+        <category>sharing</category>
         
       </item>
     
@@ -2131,9 +2188,15 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
-        <link>http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---001.html</link>
-        <guid isPermaLink="true">http://blog.xplusz.com//2014/10/17/x-plus-z-sharing---001.html</guid>
+        <link>http://blog.xplusz.com//blog/sharing/2014/10/17/x-plus-z-sharing---001.html</link>
+        <guid isPermaLink="true">http://blog.xplusz.com//blog/sharing/2014/10/17/x-plus-z-sharing---001.html</guid>
         
+        <category>sharing</category>
+        
+        
+        <category>blog</category>
+        
+        <category>sharing</category>
         
       </item>
     
