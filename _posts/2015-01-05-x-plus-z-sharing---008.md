@@ -104,11 +104,6 @@ tags: [sharing]
 
 * 第一时间得获知分享，请关注公司微信公众账号.
 
-<<<<<<< HEAD
-<img src="https://s3-us-west-1.amazonaws.com/xplusz.com/x%2Bz_weichat.png" alt="X PLUS Z WEICHAT">
 =======
 ![X PLUS Z WEICHAT](https://s3-us-west-1.amazonaws.com/xplusz.com/x%2Bz_weichat.png)
 
-
-
->>>>>>> 9074666b69deb8e12673f434e375e4c3ef048da5
