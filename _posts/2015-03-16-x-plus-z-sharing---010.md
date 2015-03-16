@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "X Plus Z Sharing   010"
+title: "X Plus Z Sharing 第十期"
 description: ""
 category: 
 tags: []
 ---
 
-# X Plus Z 分享（第十期）
 `引用经典`
 
 `Cease to struggle and you cease to live.`
