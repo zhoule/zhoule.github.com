@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "X Plus Z Sharing 第十期"
+title: "X Plus Z 分享（第十期）"
 description: ""
 category: 
 tags: []
